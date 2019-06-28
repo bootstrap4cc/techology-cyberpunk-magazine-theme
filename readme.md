@@ -12,7 +12,7 @@ Easy to use and modify bootstrap4 magazine template
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release](https://bootstrap4.cc/theme/gaming-esports-theme)
+* [Download the latest release](https://bootstrap4.cc/theme/nifty-magazine-theme-2/)
 
 ## Usage
 
